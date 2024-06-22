@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "express": "^4.19.2",
+    "http": "^0.0.1-security",
+    "nodemon": "^3.1.4",
+    "ws": "^8.17.1"
+  },
+  "scripts": {
+    "dev": "nodemon server",
+    "start": "node server"
+  },
+  "type": "module"
+}
