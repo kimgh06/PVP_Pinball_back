@@ -3,6 +3,7 @@
     "express": "^4.19.2",
     "http": "^0.0.1-security",
     "nodemon": "^3.1.4",
+    "waait": "^1.0.5",
     "ws": "^8.17.1"
   },
   "scripts": {
